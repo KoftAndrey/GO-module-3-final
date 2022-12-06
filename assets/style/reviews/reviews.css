@@ -70,6 +70,10 @@
     margin: 0 0 26px 0;
   }
 
+  .reviews__list {
+    padding: 0 75px;
+  }
+
   .reviews__item {
     font-size: 18px;
     line-height: 26px;
@@ -107,6 +111,10 @@
     margin: 0 0 31px 0;
   }
 
+  .reviews__list {
+    padding: 0 65px;
+  }
+
   .reviews__item {
     font-size: 16px;
     line-height: 22px;
@@ -139,6 +147,10 @@
 
   .reviews__title {
     margin: 0 0 15px 0;
+  }
+
+  .reviews__list {
+    padding: 0;
   }
 
   .reviews__item {

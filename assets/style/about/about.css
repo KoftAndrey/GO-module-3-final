@@ -196,6 +196,10 @@
      padding: 0 0 0 22px;
    }
 
+   .about__quote-text::before {
+    top: -4px;
+  }
+
    .about__quote-text {
     margin: 0 0 25px 0;
      font-size: 32px;
@@ -247,16 +251,16 @@
   .about__quote {
     padding: 5px 0 0 0;
   }
+
+  .about__quote-text::before {
+    top: 5px;
+  }
   
   .about__quote-text {
     padding: 0 0 0 15px;
     margin: 0 0 10px 0;
     font-size: 18px;
     line-height: 26px;
-  }
-  
-  .about__quote-text::before {
-    top: 5;
   }
 
   .about__quote-author {
